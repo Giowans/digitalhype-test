@@ -6,12 +6,16 @@ I made this application to achieve a test belong of a part of the selection proc
 
 You can see in action the application [Here!](https://digitalhype-test.vercel.app/)
 
+![Running on localhost](https://user-images.githubusercontent.com/50498823/232178154-98113398-c4e1-4c28-894c-f979762fc709.PNG)
+
+
 More project info below!
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
+To run the project into your local machine:
 First, run the development server:
 
 ```bash
