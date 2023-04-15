@@ -1,3 +1,11 @@
+## Digital Hype Test Assignment
+
+Hi, Giovanni here!
+
+I made this application to achieve a test belong of a part of the selection proccess to join to the DigitalHype Team! it consist in decode in a `{ javascript: dicctionarie }` a codified `string`.
+
+More project info below!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
